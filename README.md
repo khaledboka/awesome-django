@@ -274,7 +274,8 @@ phone numbers.
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with Google Maps.
 * [django-spillway](https://github.com/bkg/django-spillway/) -  Geodata extensions for Django REST Framework.
 * [djangorestframework-gis](https://github.com/djangonauts/django-rest-framework-gis/) - Geographic add-ons for Django Rest Framework.
-* [geonode](https://github.com/geonode/geonode/) - Web-based application and platform for developing geospatial information systems (GIS) 
+* [geonode](https://github.com/geonode/geonode/) - Web-based application and platform for developing geospatial information systems
+* [cartoview](https://github.com/cartologic/cartoview/) - extends GeoNode SDI to provide the ability to create, share, and visualize GIS web mapping applications
 
 ## Image handling
 
